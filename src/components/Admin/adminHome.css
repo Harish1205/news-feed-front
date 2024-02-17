@@ -1,0 +1,68 @@
+.logindivv {
+    max-width: 470px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #5cb6da;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .logindivv h1{
+    text-align: center;
+  }
+  /* Style for the form */
+  .logindivv form {
+    display: flex;
+    flex-direction: column;
+    
+
+  }
+  
+  /* Style for the input fields */
+  .logindivv label {
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: larger;
+  }
+  
+  .logindivv input {
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100%;
+  }
+  
+  /* Style for the submit button */
+  .logindivv button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: larger;
+  }
+  
+  .logindivv button:hover {
+    background-color: antiquewhite;
+    color: black;
+  }
+  body{
+    background-color:lightyellow;
+  }
+ .lin{
+    color: black;
+    text-decoration: none;
+    width: 280px;
+ } 
+ .type{
+  width: 50%;
+  height: 30px;
+  color: white;
+  background-color: black;
+  float: right;
+  border-radius: 10px;
+ }

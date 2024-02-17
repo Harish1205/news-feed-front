@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    width: 80%;
+    height: 80%;
+    
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 18px;
+
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color: #04AA6D;
+    color: black;
+    font-size: larger;
+  }
+.subtable{
+    margin-left: 180px;
+}
